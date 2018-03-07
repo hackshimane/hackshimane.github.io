@@ -1,6 +1,6 @@
 ---
 title: "第0回 Hack Shimane"
-category: 
+tags: 
   - ハッカソン
   - イベント 
 ---
